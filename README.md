@@ -5,8 +5,8 @@
 ![Language](https://img.shields.io/badge/language-Swift-orange.svg)
 
 ## What is the content of this repository?
-This repo was born as collection of all of the exercises that I did in order to complete and pass the "Design Patterns in Swift" course by  Dmitri Nesteruk on Udemy. I approached this course to have a way of quantifying my knowledge and understanding of the Swift programming language using something which is very familiar to each developer: design patterns.
-After each chapter the teacher requires the student to complete an exercise (aka the application of a design pattern) and this exercise must go through a series of unit test which are already implemented and you won't see if not consulting the solution to the exercise. A code running plugin implemented into the Udemy platform will run the code proposed against the tests.
+This repo was born as collection of all of the exercises that I did in order to complete and pass the _Design Patterns in Swift_ course by  Dmitri Nesteruk [on Udemy](https://www.udemy.com/course/design-patterns-swift/). I approached this course as a way of quantifying my knowledge and understanding of the Swift programming language using something which is very familiar to each developer: design patterns.
+After each chapter the teacher requires the student to complete an exercise (aka the application of a design pattern) and this exercise must go through a series of unit test which are already implemented and you won't see if not consulting the solution of the exercise. A code running plugin implemented into the Udemy platform runs the code submitted against the tests.
 
 ## What are Design Patterns?
 "Design Patterns are reusable solutions to common programming problems. They were popularized with the 1994 book Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, John Vlissides, Ralph Johnson and Richard Helm (who are commonly known as a Gang of Four, hence the GoF acronym).
